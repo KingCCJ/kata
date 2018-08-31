@@ -1,0 +1,14 @@
+{
+  "name": "coinchangerjs",
+  "version": "1.0.0",
+  "description": "coinchanger kata",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "9th Light",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^3.2.0"
+  }
+}
